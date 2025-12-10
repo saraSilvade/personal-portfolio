@@ -12,9 +12,10 @@
     "icons": "^1.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-icons": "^5.4.0",
-    "react-router-dom": "^6.23.1",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.30.2",
     "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -42,9 +43,9 @@
     ]
   },
   "devDependencies": {
+    "@types/minimatch": "^5.1.2",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
-    "@types/react-router-dom": "^5.3.3",
-    "typescript": "^4.9.5"
+    "@types/react-router-dom": "^5.3.3"
   }
 }
